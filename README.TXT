@@ -1,5 +1,3 @@
-README FILE TO TEST GIT
+In reality we can use -n option which shows only the last n commits.
 
-NOW I HAVE CHANGED THIS FILE
-
-added another line now.
+git log -p -2
